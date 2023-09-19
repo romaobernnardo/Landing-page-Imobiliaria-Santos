@@ -1,15 +1,24 @@
 # Landing-page-Imobiliaria-Santos
 
-O objetivo deste projeto é criar uma página web estilizada que exibe informações de uma imobiliária. As linguagens utilizadas são HTML e CSS. O projeto permite aplicar os seguintes conceitos:
+O objetivo deste projeto é criar uma página web estilizada que exibe informações de uma imobiliária. As linguagens utilizadas são HTML e CSS. O projeto permite aplicaralguns conceitos.
 
-- Tags básicas do HTML
-- Meta tags HTML
-- Listas no HTML
-- Seletores CSS
+## Conceitos e Técnicas Abordados:
+  
+1. **Tags básicas do HTML:** Vocêverá a criação de elementos inseridos no código para estruturar e formatar o conteúdo da página.
+
+2. **Meta tags HTML:** Será inseridas meta tags HTML que são tags especiais que fornecem informações sobre a página web, mas não são exibidas diretamente no navegador do usuário.
+
+3. **Listas no HTML:** Você terá a oportunidade de adicionar as listas no HTML são usadas para organizar itens relacionados em uma sequência ordenada ou não ordenada.
+
+4. **Seletores CSS:** são padrões usados para selecionar elementos HTML aos quais você deseja aplicar estilos CSS. Os seletores permitem que você defina quais elementos em sua página web serão afetados pelas regras de estilo CSS que você escrever.
 
 ## Conhecendo o Projeto
 
-O projeto que será criado é uma página de imobiliária, conforme mostrado abaixo. Ela contém várias seções, como "Sobre", "Serviços", "Corretores" e "Contato". A página utiliza elementos HTML e CSS para criar uma apresentação atraente. O layout do projeto pode ser visualizado na **Figura 1** (que pode ser inserida aqui) para que você tenha uma ideia clara do design final a ser alcançado.
+O projeto que será criado é uma página de imobiliária, conforme mostrado abaixo. Ela contém várias seções, como "Sobre", "Serviços", "Corretores" e "Contato". A página utiliza elementos HTML e CSS para criar uma apresentação atraente.
+
+## Layout do Projeto:
+
+O layout do projeto pode ser visualizado para que você tenha uma ideia clara do design.
 
 <img src="./img/anime1.gif" alt="Layout da página" >
 
