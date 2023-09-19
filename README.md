@@ -11,7 +11,7 @@ O objetivo deste projeto é criar uma página web estilizada que exibe informaç
 
 O projeto que será criado é uma página de imobiliária, conforme mostrado abaixo. Ela contém várias seções, como "Sobre", "Serviços", "Corretores" e "Contato". A página utiliza elementos HTML e CSS para criar uma apresentação atraente. O layout do projeto pode ser visualizado na **Figura 1** (que pode ser inserida aqui) para que você tenha uma ideia clara do design final a ser alcançado.
 
-<img src="./img/anime1.git" alt="Layout da página" width="250">
+<img src="./img/anime1.gif" alt="Layout da página" >
 
 ## Como Começar:
 
